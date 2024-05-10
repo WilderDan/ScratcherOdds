@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottoScrape", "LottoScrape\LottoScrape.csproj", "{FE1EF783-C72A-4DCB-93BE-16C60C7FD490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1EF783-C72A-4DCB-93BE-16C60C7FD490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1EF783-C72A-4DCB-93BE-16C60C7FD490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1EF783-C72A-4DCB-93BE-16C60C7FD490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1EF783-C72A-4DCB-93BE-16C60C7FD490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D53C328-FE7B-43B3-8409-6CE370A25779}
+	EndGlobalSection
+EndGlobal

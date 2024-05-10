@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LottoScrape": {
+      "commandName": "Project",
+      "commandLineArgs": "vstudio_debug.json"
+    }
+  }
+}
